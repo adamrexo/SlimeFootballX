@@ -1,0 +1,4 @@
+name: SlimeFootball
+version: '${project.version}'
+main: eu.rexo.slimefootball.Main
+api-version: '1.20'

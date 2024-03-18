@@ -1,0 +1,41 @@
+[23:23:50] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:23:52] [ServerMain/INFO]: Loaded 7 recipes
+[23:23:53] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:23:53] [Server thread/INFO]: Loading properties
+[23:23:53] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[23:23:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:23:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:23:54] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[23:23:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[23:23:55] [Server thread/INFO]: Default game type: SURVIVAL
+[23:23:55] [Server thread/INFO]: Generating keypair
+[23:23:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:23:55] [Server thread/INFO]: Using default channel type
+[23:23:55] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[23:23:55] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[23:23:55] [Server thread/INFO]: [SlimeFootball] Loading server plugin SlimeFootball v1.0
+[23:23:55] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.9.1-SNAPSHOT-669;eca4dbd
+[23:23:57] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2e29b0c2]
+[23:23:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:23:57] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.9.1-SNAPSHOT-669;eca4dbd
+[23:23:57] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[23:23:57] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[23:23:57] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[23:23:57] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[23:23:58] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R1.PaperweightFaweAdapter as the Bukkit adapter
+[23:23:59] [Server thread/INFO]: Preparing level "world"
+[23:23:59] [ForkJoinPool.commonPool-worker-1/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 17 build(s) out of date.
+You are running build 669, the latest version is build 686.
+Update at https://www.spigotmc.org/resources/13932/
+[23:23:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:24:00] [Server thread/INFO]: Time elapsed: 324 ms
+[23:24:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:24:00] [Server thread/INFO]: Time elapsed: 44 ms
+[23:24:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:24:00] [Server thread/INFO]: Time elapsed: 40 ms
+[23:24:00] [Server thread/INFO]: [SlimeFootball] Enabling SlimeFootball v1.0
+[23:24:01] [Server thread/INFO]: Running delayed init tasks
+[23:24:01] [Server thread/INFO]: Done (7.372s)! For help, type "help"
+[23:24:01] [Server thread/INFO]: Timings Reset
