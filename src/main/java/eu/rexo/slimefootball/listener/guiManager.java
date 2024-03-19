@@ -50,6 +50,6 @@ public class guiManager implements Listener {
             chestMeta.setLore(lore);
             chestItem.setItemMeta(chestMeta);
         }
-        statsMenu.setItem(4, chestItem); // Aktualizace inventáře
+        statsMenu.setItem(4, chestItem);
     }
 }
