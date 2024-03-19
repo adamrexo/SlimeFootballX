@@ -42,7 +42,7 @@ public class guiManager implements Listener {
         ItemStack chestItem = new ItemStack(Material.CHEST, 1);
         ItemMeta chestMeta = chestItem.getItemMeta();
         if (chestMeta != null) {
-            chestMeta.setDisplayName("§r§9" + playerName + " staty");
+            chestMeta.setDisplayName("§r§9" + playerName + " Staty");
             List<String> lore = new ArrayList<>();
             lore.add("§r§1odehrane hry: §r§3" + databaseManager.ziskatHry(playerName));
             lore.add("§r§1goly: §r§3" + databaseManager.ziskatGoly(playerName));
