@@ -1,0 +1,11 @@
+eu\rexo\slimefootball\utils\dbManager.class
+eu\rexo\slimefootball\utils\slimeSpawning.class
+eu\rexo\slimefootball\listener\slimeBrana.class
+eu\rexo\slimefootball\Main.class
+eu\rexo\slimefootball\listener\playerJoin.class
+eu\rexo\slimefootball\utils\database.class
+eu\rexo\slimefootball\utils\gameManager.class
+eu\rexo\slimefootball\cmds\stats.class
+eu\rexo\slimefootball\listener\guiManager.class
+eu\rexo\slimefootball\listener\playerQuit.class
+eu\rexo\slimefootball\listener\slimeVelocity.class
